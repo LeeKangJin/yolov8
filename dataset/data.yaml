@@ -1,0 +1,7 @@
+path: ./animal_dataset
+train: images/train
+val: images/val
+
+nc: 3
+names: ['fire bore', 'wild bore', 'mouse']
+# 사용할 몬스터 정리 
